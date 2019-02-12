@@ -1,0 +1,12 @@
+Georg Greflinger – Digitale Edition
+
+* Förderung des Teilprojekts "Ethica Complementoria": Digital Humanities Stipendium der Herzog August Bibliothek Wolfenbüttel für Annika Rockenberger, Universität Oslo
+* Förderung des Teilprojekts "Schriften zum Dreißigjährigen Krieg": Digital Humanities Stipendium der Herzog August Bibliothek Wolfenbüttel für Per Röcken, Berlin
+
+Das Projekt "Edition sämtlicher Werke und Schriften des norddeutschen Journalisten, Historikers und Poeten Georg Greflinger (1620–1677)" wird herausgegeben von Annika Rockenberger (Oslo) und Per Röcken (Berlin).
+
+Die Edition besteht aus unabhängigen Teilen, die sich jeweils einem Aspekt des Schaffens Greflingers widmen: Poetische Schriften, einschließlich der umfangreichen Gelegenheitsdichtung; Übersetzungen populärer literarischer Werke sowie lebenspraktischer Ratgeber aus dem Lateinischen, Französischen, Spanischen und Niederländischen; Publizistisches sowie die Greflinger zugeschriebene Komplimentierlehre "Ethica Complementoria". Eine [Darstellung der komplexen Überlieferungsgeschichte der Ethica](http://diglib.hab.de/ebooks/ed000738/start.htm) ist als digitale Publikation über die Herzog August Bibliothek frei zugänglich.
+
+Ein Großteil der Texte in der Edition ist manuell erfaßt und am Original geprüft. Alle übrigen Texte sind mittels des Transkriptionswerkzeugs [Transkribus](https://transkribus.eu/Transkribus/) automatisch erzeugt und mindestens am Digitalisat manuell geprüft. Alle Texte sind nach dem DTA-Basisformat ausgezeichnet.
+
+Das Weblog [Greflinger – Digitale Edition](https://greflinger.hypotheses.org/) begleitet die Editionsarbeit.
